@@ -1,0 +1,1 @@
+Esse repositório é onde eu guardo meus trabalhos feitos durante o Ensino Médio integrado com Desenvolvimento de Sistemas, Tem de tudo um pouco: desde atividades mais simples de lógica e algoritmos até projetos com banco de dados, front-end e back-end e etc
